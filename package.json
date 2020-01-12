@@ -1,0 +1,9 @@
+{
+  "name": "letters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/letters.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

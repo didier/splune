@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+
+    <style>
+      p span {
+        display: inline-block;
+        animation: bounce 1s ease-in-out 0s infinite alternate forwards;
+        animation-delay: calc(var(--index) * 0.025s);
+      }
+
+      @keyframes bounce {
+        from {
+          transform: translateY(0);
+        }
+        to {
+          transform: translateY(100%);
+        }
+      }
+
+      .white {
+        width: 0.5ch;
+      }
+    </style>
+  </head>
+  <body>
+    <p>These are my letters.</p>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
