@@ -1,8 +1,8 @@
 import {
-  Letters
-} from './letters'
+  Splune
+} from './splune'
 
-Letters({
+Splune({
   el: 'p',
   whiteSpaceClass: 'white'
 });

@@ -1,4 +1,4 @@
-export function Letters(opts) {
+export function Splune(opts) {
   const options = opts || {}
   const elements = document.querySelectorAll(options.el)
   const whiteSpaceClass = options.whiteSpaceClass || 'whitespace'

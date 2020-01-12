@@ -1,8 +1,8 @@
 {
-  "name": "letters",
+  "name": "splune",
   "version": "1.0.0",
   "description": "",
-  "main": "src/letters.js",
+  "main": "src/splune.js",
   "keywords": [],
   "author": "",
   "license": "ISC"
