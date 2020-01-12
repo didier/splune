@@ -1,1 +1,1 @@
-# Letters.js, an extremely tiny library for text splitting & effects.
+# Splune.js, an extremely tiny library for text splitting & effects.
