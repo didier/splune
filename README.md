@@ -3,7 +3,7 @@
 # Splune.js, an extremely tiny library for text splitting & effects.
 
 ```js
-import { Splune } from './Splune';
+import { Splune } from 'splune';
 
 Splune({
   el: '.element', // element(s) to split
