@@ -1,7 +1,7 @@
 {
   "name": "splune",
   "version": "1.0.0",
-  "description": "Letters.js, an extremely tiny library for text splitting & effects.",
+  "description": "Splune.js, an extremely tiny library for text splitting & effects.",
   "main": "src/splune.js",
   "keywords": [
     "letters",
